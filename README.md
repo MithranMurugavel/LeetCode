@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+| [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
 ## Matrix
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
 <!---LeetCode Topics End-->
