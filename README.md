@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
 | [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 ## Binary Search
 |  |
 | ------- |
