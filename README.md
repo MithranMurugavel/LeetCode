@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MithranMurugavel/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Simulation
 |  |
 | ------- |
