@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Matrix
 |  |
 | ------- |
@@ -108,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
