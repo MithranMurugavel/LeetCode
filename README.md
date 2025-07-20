@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1542-consecutive-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1542-consecutive-characters) |
 | [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
