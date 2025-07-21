@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MithranMurugavel/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MithranMurugavel/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Search
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
