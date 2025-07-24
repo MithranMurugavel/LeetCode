@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/MithranMurugavel/LeetCode/tree/master/0461-hamming-distance) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MithranMurugavel/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
