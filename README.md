@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/MithranMurugavel/LeetCode/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/MithranMurugavel/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/MithranMurugavel/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
