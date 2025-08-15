@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MithranMurugavel/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MithranMurugavel/LeetCode/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/MithranMurugavel/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/MithranMurugavel/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/MithranMurugavel/LeetCode/tree/master/0461-hamming-distance) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MithranMurugavel/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MithranMurugavel/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
