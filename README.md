@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/MithranMurugavel/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MithranMurugavel/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MithranMurugavel/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/MithranMurugavel/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
