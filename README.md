@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Database
@@ -238,5 +240,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
