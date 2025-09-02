@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Database
@@ -242,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
