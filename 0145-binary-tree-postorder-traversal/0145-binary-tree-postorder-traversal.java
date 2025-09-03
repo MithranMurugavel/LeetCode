@@ -27,9 +27,8 @@ class Solution {
             if(curr.left != null) stack1.push(curr.left);
              if(curr.right != null) stack1.push(curr.right);
         }
-        for(TreeNode s: stack2)
-        list.add(s.val);
-        Collections.reverse(list);
+        while(!stack2.isEmpty())
+        list.add(stack2.pop().val);
         return list;
     }
 }
