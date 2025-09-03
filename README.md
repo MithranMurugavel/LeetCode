@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MithranMurugavel/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/MithranMurugavel/LeetCode/tree/master/0342-power-of-four) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
