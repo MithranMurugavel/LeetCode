@@ -15,7 +15,6 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        
         if(root == null) return new ArrayList<>();
         List<Integer> list=new ArrayList<>();
         Stack<TreeNode> stack1 =new Stack<>();
@@ -23,10 +22,8 @@ class Solution {
         stack1.push(root);
 
         while(!stack1.isEmpty()){
-            
             TreeNode curr=stack1.pop();
             stack2.push(curr);
-
             if(curr.left != null) stack1.push(curr.left);
              if(curr.right != null) stack1.push(curr.right);
         }
