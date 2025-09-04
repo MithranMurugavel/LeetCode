@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/MithranMurugavel/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/MithranMurugavel/LeetCode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
 | ------- |
