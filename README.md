@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/MithranMurugavel/LeetCode/tree/master/0563-binary-tree-tilt) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MithranMurugavel/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/MithranMurugavel/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
