@@ -11,7 +11,7 @@ class Solution {
             arr[n]++;
         }
 
-        int[] temp = arr.clone();
+        int[] temp = Arrays.copyOf(arr,arr.length);
 
         Arrays.sort(temp);
         max=temp[temp.length-1];
