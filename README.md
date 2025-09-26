@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/MithranMurugavel/LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MithranMurugavel/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/MithranMurugavel/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MithranMurugavel/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MithranMurugavel/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/MithranMurugavel/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/MithranMurugavel/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2032-largest-odd-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
