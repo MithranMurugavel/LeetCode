@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MithranMurugavel/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/MithranMurugavel/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/MithranMurugavel/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/MithranMurugavel/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MithranMurugavel/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MithranMurugavel/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MithranMurugavel/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MithranMurugavel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MithranMurugavel/LeetCode/tree/master/0198-house-robber) |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MithranMurugavel/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
