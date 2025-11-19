@@ -1,22 +1,20 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
         
-
-        List<Integer> list=new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
         for(int i:nums){
             list.add(i);
         }
 
-        for(int i:nums){
+        for(Integer n:list){
             if(list.contains(original)){
-                original*=2;
+                original *= 2; 
             }
             else{
-                return original;
+                break;
             }
         }
-        int temp = nums[0];
-        return (temp*2);
+        return original;
     }
 }
