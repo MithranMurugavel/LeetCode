@@ -9,7 +9,8 @@ class Solution {
 
         for(Integer n:list){
             if(list.contains(original)){
-                original *= 2; 
+                original *= 2;
+                 
             }
             else{
                 break;
