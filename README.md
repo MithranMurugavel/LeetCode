@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MithranMurugavel/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MithranMurugavel/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MithranMurugavel/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/MithranMurugavel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MithranMurugavel/LeetCode/tree/master/0037-sudoku-solver) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MithranMurugavel/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MithranMurugavel/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MithranMurugavel/LeetCode/tree/master/0015-3sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/MithranMurugavel/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MithranMurugavel/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
