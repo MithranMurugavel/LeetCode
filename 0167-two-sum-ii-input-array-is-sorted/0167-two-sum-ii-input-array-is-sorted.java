@@ -14,7 +14,7 @@ class Solution {
             if(val>target){
                 r--;
             }
-            if(val<target){
+            else{
                 l++;
             }
         }
