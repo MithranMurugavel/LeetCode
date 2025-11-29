@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MithranMurugavel/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/MithranMurugavel/LeetCode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/MithranMurugavel/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MithranMurugavel/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MithranMurugavel/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/MithranMurugavel/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/MithranMurugavel/LeetCode/tree/master/0037-sudoku-solver) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/MithranMurugavel/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
