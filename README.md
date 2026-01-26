@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MithranMurugavel/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MithranMurugavel/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MithranMurugavel/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MithranMurugavel/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/MithranMurugavel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MithranMurugavel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/MithranMurugavel/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -498,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MithranMurugavel/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
