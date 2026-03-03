@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2951-find-the-peaks](https://github.com/MithranMurugavel/LeetCode/tree/master/2951-find-the-peaks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MithranMurugavel/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MithranMurugavel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/MithranMurugavel/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MithranMurugavel/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2951-find-the-peaks](https://github.com/MithranMurugavel/LeetCode/tree/master/2951-find-the-peaks) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
