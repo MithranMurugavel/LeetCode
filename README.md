@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/MithranMurugavel/LeetCode/tree/master/1161-project-employees-i) |
 | [1407-top-travellers](https://github.com/MithranMurugavel/LeetCode/tree/master/1407-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/MithranMurugavel/LeetCode/tree/master/1670-patients-with-a-condition) |
+| [1729-find-followers-count](https://github.com/MithranMurugavel/LeetCode/tree/master/1729-find-followers-count) |
 | [1811-fix-names-in-a-table](https://github.com/MithranMurugavel/LeetCode/tree/master/1811-fix-names-in-a-table) |
 ## Probability and Statistics
 |  |
