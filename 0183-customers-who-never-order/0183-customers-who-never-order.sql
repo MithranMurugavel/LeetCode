@@ -1,5 +1,2 @@
-select c.name as Customers
-from Customers c
-where c.id not in(select c.id
-from Customers c, Orders o
-where c.id=o.customerId)
+SELECT cus.name as Customers FROM Customers as cus
+LEFT JOIN Orders od ON cus.id = od.customerId WHERE od.customerId is NULL; 
