@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/MithranMurugavel/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
