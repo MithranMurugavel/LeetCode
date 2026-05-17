@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/MithranMurugavel/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MithranMurugavel/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/MithranMurugavel/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3794-reverse-string-prefix](https://github.com/MithranMurugavel/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
