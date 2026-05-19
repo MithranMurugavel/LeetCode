@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/MithranMurugavel/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
 | [2951-find-the-peaks](https://github.com/MithranMurugavel/LeetCode/tree/master/2951-find-the-peaks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MithranMurugavel/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MithranMurugavel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MithranMurugavel/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/MithranMurugavel/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MithranMurugavel/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MithranMurugavel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MithranMurugavel/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MithranMurugavel/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/MithranMurugavel/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/MithranMurugavel/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
