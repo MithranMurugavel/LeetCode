@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MithranMurugavel/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
