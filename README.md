@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/MithranMurugavel/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2951-find-the-peaks](https://github.com/MithranMurugavel/LeetCode/tree/master/2951-find-the-peaks) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MithranMurugavel/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MithranMurugavel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/MithranMurugavel/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MithranMurugavel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/MithranMurugavel/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
