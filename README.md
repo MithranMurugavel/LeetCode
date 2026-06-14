@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MithranMurugavel/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MithranMurugavel/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MithranMurugavel/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/MithranMurugavel/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/MithranMurugavel/LeetCode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+| [3945-digit-frequency-score](https://github.com/MithranMurugavel/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
