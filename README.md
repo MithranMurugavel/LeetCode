@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MithranMurugavel/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MithranMurugavel/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/MithranMurugavel/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MithranMurugavel/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MithranMurugavel/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
