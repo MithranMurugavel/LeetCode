@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/MithranMurugavel/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
