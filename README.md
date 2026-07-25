@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/MithranMurugavel/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MithranMurugavel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3536-maximum-product-of-two-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MithranMurugavel/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3859-maximum-product-of-two-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MithranMurugavel/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3536-maximum-product-of-two-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MithranMurugavel/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
