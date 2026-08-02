@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MithranMurugavel/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MithranMurugavel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/MithranMurugavel/LeetCode/tree/master/0504-base-7) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MithranMurugavel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MithranMurugavel/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MithranMurugavel/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MithranMurugavel/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -570,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
