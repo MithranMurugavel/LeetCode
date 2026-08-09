@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/MithranMurugavel/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MithranMurugavel/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MithranMurugavel/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2951-find-the-peaks](https://github.com/MithranMurugavel/LeetCode/tree/master/2951-find-the-peaks) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MithranMurugavel/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
