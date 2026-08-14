@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/MithranMurugavel/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2154-minimum-moves-to-convert-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MithranMurugavel/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MithranMurugavel/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/MithranMurugavel/LeetCode/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MithranMurugavel/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/MithranMurugavel/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MithranMurugavel/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/MithranMurugavel/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MithranMurugavel/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/MithranMurugavel/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
