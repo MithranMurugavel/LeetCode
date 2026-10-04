@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/MithranMurugavel/LeetCode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MithranMurugavel/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MithranMurugavel/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MithranMurugavel/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/MithranMurugavel/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1448-maximum-69-number](https://github.com/MithranMurugavel/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MithranMurugavel/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
 |  |
@@ -609,4 +613,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MithranMurugavel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MithranMurugavel/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
