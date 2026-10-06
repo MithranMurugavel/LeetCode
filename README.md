@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/MithranMurugavel/LeetCode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MithranMurugavel/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/MithranMurugavel/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MithranMurugavel/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/MithranMurugavel/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MithranMurugavel/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Breadth-First Search
 |  |
@@ -614,4 +617,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MithranMurugavel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MithranMurugavel/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
