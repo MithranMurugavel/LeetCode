@@ -10,25 +10,17 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode A, ListNode B) {
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         
-        List<ListNode> list=new ArrayList<>();
+        ListNode temp1 = headA;
+        ListNode temp2 = headB;
 
-        ListNode temp=A;
-        while(temp != null){
-            list.add(temp);
-            temp=temp.next;
+        while(temp1 != temp2){
+
+            temp1 = temp1 == null ? headB : temp1.next;
+            temp2 = temp2 == null ? headA : temp2.next;
         }
 
-         temp=B;
-
-        while(temp != null){
-            if(list.contains(temp)){
-                return temp;
-            }
-            temp=temp.next;
-        }
-
-        return null;
+        return temp1;
     }
 }
