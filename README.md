@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/MithranMurugavel/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MithranMurugavel/LeetCode/tree/master/0231-power-of-two) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/MithranMurugavel/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/MithranMurugavel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MithranMurugavel/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/MithranMurugavel/LeetCode/tree/master/0146-lru-cache) |
