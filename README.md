@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/MithranMurugavel/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/MithranMurugavel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/MithranMurugavel/LeetCode/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MithranMurugavel/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MithranMurugavel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MithranMurugavel/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MithranMurugavel/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
 |  |
