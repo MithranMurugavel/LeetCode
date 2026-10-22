@@ -10,8 +10,8 @@ class Solution {
 
         int maxLen = 0;
         // Try all possible first two numbers of sequence
-        for (int start = 0; start < n; ++start) {
-            for (int next = start + 1; next < n; ++next) {
+        for (int start = 0; start < n; start++) {
+            for (int next = start + 1; next < n; next++) {
                 // Start with first two numbers
                 int prev = arr[next];
                 int curr = arr[start] + arr[next];
