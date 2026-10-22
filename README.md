@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MithranMurugavel/LeetCode/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/MithranMurugavel/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MithranMurugavel/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/MithranMurugavel/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MithranMurugavel/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MithranMurugavel/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/MithranMurugavel/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MithranMurugavel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/MithranMurugavel/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Combinatorics
 |  |
@@ -676,4 +680,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/MithranMurugavel/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
