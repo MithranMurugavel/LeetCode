@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1217-relative-sort-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1408-string-matching-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/MithranMurugavel/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MithranMurugavel/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MithranMurugavel/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1408-string-matching-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/MithranMurugavel/LeetCode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1542-consecutive-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1542-consecutive-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1408-string-matching-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Game Theory
 |  |
 | ------- |
