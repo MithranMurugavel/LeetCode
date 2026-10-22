@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/MithranMurugavel/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0383-ransom-note](https://github.com/MithranMurugavel/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MithranMurugavel/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/MithranMurugavel/LeetCode/tree/master/0504-base-7) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/MithranMurugavel/LeetCode/tree/master/1448-maximum-69-number) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MithranMurugavel/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MithranMurugavel/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MithranMurugavel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/MithranMurugavel/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MithranMurugavel/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/MithranMurugavel/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MithranMurugavel/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
