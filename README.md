@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1217-relative-sort-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MithranMurugavel/LeetCode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/MithranMurugavel/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/MithranMurugavel/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/MithranMurugavel/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MithranMurugavel/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1217-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/MithranMurugavel/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/MithranMurugavel/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Combinatorics
 |  |
 | ------- |
