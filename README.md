@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MithranMurugavel/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0896-monotonic-array) |
 | [0898-transpose-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0898-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MithranMurugavel/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MithranMurugavel/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/MithranMurugavel/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MithranMurugavel/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/MithranMurugavel/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/MithranMurugavel/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
@@ -693,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MithranMurugavel/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/MithranMurugavel/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
