@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/MithranMurugavel/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
 | [1200-minimum-absolute-difference](https://github.com/MithranMurugavel/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/MithranMurugavel/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1217-relative-sort-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MithranMurugavel/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-string-matching-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1044-find-common-characters](https://github.com/MithranMurugavel/LeetCode/tree/master/1044-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/MithranMurugavel/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/MithranMurugavel/LeetCode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/MithranMurugavel/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MithranMurugavel/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
