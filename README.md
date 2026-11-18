@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/MithranMurugavel/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MithranMurugavel/LeetCode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/MithranMurugavel/LeetCode/tree/master/0575-distribute-candies) |
 | [0735-asteroid-collision](https://github.com/MithranMurugavel/LeetCode/tree/master/0735-asteroid-collision) |
 | [0777-toeplitz-matrix](https://github.com/MithranMurugavel/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MithranMurugavel/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/MithranMurugavel/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MithranMurugavel/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/MithranMurugavel/LeetCode/tree/master/0575-distribute-candies) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/MithranMurugavel/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/MithranMurugavel/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0981-time-based-key-value-store](https://github.com/MithranMurugavel/LeetCode/tree/master/0981-time-based-key-value-store) |
