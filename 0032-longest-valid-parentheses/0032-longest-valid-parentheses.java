@@ -9,7 +9,6 @@ class Solution {
                 stack.push(i);
             else {
                 stack.pop();
-                
                 if (stack.isEmpty())
                     stack.push(i);
                 else
